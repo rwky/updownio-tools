@@ -1,0 +1,8 @@
+[
+    {
+        "url": "https://www.rwky.net",
+        "period": 3600,
+        "apdex_t": 1,
+        "custom_headers[Authorization]": "Basic c2l4dGltZXNuaW5lOjQy"
+    }
+]
